@@ -1,6 +1,6 @@
 .card__Wrapper {
-  height: 206px;
-  width: 353px;
+  height: 223px;
+  width: 383px;
   margin: 10% auto;
   background-color: #37474F;
   color: #FFB74D;
@@ -9,8 +9,8 @@
 }
 
 .div {
-  height: 195px;
-  width: 340px;
+  height: 213px;
+  width: 370px;
   border: solid #CFD8DC 2px;
   margin: auto;
 }
@@ -24,14 +24,14 @@
 }
 
 .job {
-  margin-top: 3%;
+  margin-top: 4%;
 }
 
 .back__Wrapper {
   color: white;
   text-align: center;
-  height: 206px;
-  width: 353px;
+  height: 223px;
+  width: 383px;
   margin: 10% auto;
   border: solid black 1px;
   background-color: #37474F;

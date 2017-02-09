@@ -1,6 +1,6 @@
 .card__Wrapper {
-  height: 223px;
-  width: 383px;
+  height: 218px;
+  width: 410px;
   margin: 10% auto;
   background-color: #37474F;
   color: #FFB74D;
@@ -9,8 +9,8 @@
 }
 
 .div {
-  height: 213px;
-  width: 370px;
+  height: 208px;
+  width: 395px;
   border: solid #CFD8DC 2px;
   margin: auto;
 }
@@ -30,8 +30,8 @@
 .back__Wrapper {
   color: white;
   text-align: center;
-  height: 223px;
-  width: 383px;
+  height: 218px;
+  width: 410px;
   margin: 10% auto;
   border: solid black 1px;
   background-color: #37474F;

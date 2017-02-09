@@ -1,0 +1,63 @@
+.card__Wrapper {
+  height: 206px;
+  width: 353px;
+  margin: 10% auto;
+  background-color: #37474F;
+  color: #FFB74D;
+  text-align: center;
+  padding-top: 7px;
+}
+
+.div {
+  height: 195px;
+  width: 340px;
+  border: solid #CFD8DC 2px;
+  margin: auto;
+}
+
+.name {
+  margin-top: 18%;
+  color: white;
+  font-family: helvetica;
+  font-size: 24px;
+  margin-bottom: 0;
+}
+
+.job {
+  margin-top: 3%;
+}
+
+.back__Wrapper {
+  color: white;
+  text-align: center;
+  height: 206px;
+  width: 353px;
+  margin: 10% auto;
+  border: solid black 1px;
+  background-color: #37474F;
+}
+
+.contact {
+  margin-bottom: 0;
+}
+
+.contact2 {
+  margin-top: 0;
+}
+
+.port {
+  margin-bottom: 0;
+}
+
+.portfolio {
+  margin-top: 0;
+}
+
+.fa-handshake-o:before {
+    content: "\f2b5";
+    font-size: 34px;
+}
+
+span {
+  color: #FFB74D;
+}
